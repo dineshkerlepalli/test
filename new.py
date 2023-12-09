@@ -1,0 +1,1 @@
+print('Kitne bar karoge')
